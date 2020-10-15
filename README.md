@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <!--
 **LorenzoGalizia/LorenzoGalizia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +13,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<p align="center">
+	<a href="https://github.com/LorenzoGalizia"><img src="https://img.shields.io/badge/GitHub--_.svg?style=social&logo=github" alt="GitHub"></a>
+	<a href="https://www.linkedin.com/in/lorenzogalizia/"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
+	<br/>
+</p>

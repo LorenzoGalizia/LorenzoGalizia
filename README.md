@@ -13,13 +13,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![alt text](https://media-exp1.licdn.com/dms/image/C4D16AQF9MtCzDI0fZw/profile-displaybackgroundimage-shrink_350_1400/0?e=1608163200&v=beta&t=0EQ-dJW2AeHc8v3aqmw-ME2Ws41nMgELsdUeD8B31Ao)
 	
 📫 How to reach me:
 <p align="center">
 	<a href="https://github.com/LorenzoGalizia"><img src="https://img.shields.io/badge/GitHub--_.svg?style=social&logo=github" alt="GitHub"></a>
 	<a href="https://www.linkedin.com/in/lorenzogalizia/"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
 	<br/>
-
 </p>
 
